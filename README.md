@@ -16,7 +16,7 @@
 
 * Primary for sharing knowledge across different domains and catching up on recent updates.
 * Contents:
-    * Mainly or only collect interesting papers.
+    * Mainly and only collect interesting papers.
     * Summarize the approaches and frameworks.
     * Write strengths and weaknesses, and share potential applications to other domains.
     * Highlight some exciting papers. Template :
