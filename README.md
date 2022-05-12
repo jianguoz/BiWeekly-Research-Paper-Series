@@ -97,8 +97,7 @@ CRS Lab
 [A Memory Efficient Baseline for Open Domain Question Answering](https://arxiv.org/abs/2012.15156)
 
 
-## 🚀 Week 01 04/22/2022 (will reorganize this part and deleted some to many papers soon)
-
+## 🚀 Week 01 04/22/2022 
 ### Dialogue Related Papers
 
 * ACL 2022 
